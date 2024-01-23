@@ -768,7 +768,7 @@ section {
 }
 
 .get-involved .get-involved-form button[type=submit] {
-  background: hsl(266, 55%, 60%);
+  background: hsl(90, 93%, 25%);
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -777,7 +777,7 @@ section {
 }
 
 .get-involved .get-involved-form button[type=submit]:hover {
-  background: hsl(266, 55%, 80%);
+  background: hsl(90, 93%, 35%);
 }
 
 .get-involved label i {
