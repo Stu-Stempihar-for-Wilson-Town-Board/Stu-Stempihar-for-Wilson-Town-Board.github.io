@@ -101,7 +101,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: hsl(266, 55%, 30%);
+  color: hsl(90, 93%, 35%);
   text-decoration: none;
 }
 
@@ -376,11 +376,11 @@ h6 {
 }
 
 #hero h1 .main {
-  color: hsl(266, 55%, 60%);
+  color: hsl(90, 93%, 25%);
 }
 
 #hero h1 .minor {
-  color: hsl(199, 13%, 65%);
+  color: hsl(90, 13%, 65%);
   font-weight: 500;
   font-size: 30px;
 }
@@ -403,12 +403,12 @@ h6 {
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
-  background: hsl(266, 55%, 60%);
+  background: hsl(90, 93%, 25%);
 }
 
 .btn-get-started:hover {
   color: #fff;
-  background: hsl(266, 55%, 70%);
+  background: hsl(90, 93%, 35%);
 }
 
 #hero .hero-img {
@@ -492,6 +492,12 @@ section {
   font-family: "Poppins", sans-serif;
 }
 
+.leadership .content h4 {
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
 .leadership .content ul {
   list-style: none;
   padding: 0;
@@ -512,9 +518,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# initiatives
+# community
 --------------------------------------------------------------*/
-.initiatives .icon-box {
+.community .icon-box {
   padding: 30px;
   position: relative;
   overflow: hidden;
@@ -527,71 +533,71 @@ section {
   border-bottom: 3px solid #fff;
 }
 
-.initiatives p.description {
+.community p.description {
   text-align: left;
   margin-top: 1ex;
 }
 
-.initiatives .icon-box:hover {
+.community .icon-box:hover {
   transform: translateY(-5px);
 }
 
-.initiatives .icon i {
+.community .icon i {
   font-size: 48px;
   line-height: 1;
   margin-bottom: 15px;
 }
 
-.initiatives .title {
+.community .title {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-.initiatives .title a {
+.community .title a {
   color: #111;
 }
 
-.initiatives .section-title {
+.community .section-title {
   max-width: 750px;
   margin: auto;
 }
 
-.initiatives .description {
+.community .description {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
 }
 
-.initiatives .icon-box-pink .icon i {
+.community .icon-box-pink .icon i {
   color: #ff689b;
 }
 
-.initiatives .icon-box-pink:hover {
+.community .icon-box-pink:hover {
   border-color: #ff689b;
 }
 
-.initiatives .icon-box-cyan .icon i {
+.community .icon-box-cyan .icon i {
   color: #3fcdc7;
 }
 
-.initiatives .icon-box-cyan:hover {
+.community .icon-box-cyan:hover {
   border-color: #3fcdc7;
 }
 
-.initiatives .icon-box-green .icon i {
+.community .icon-box-green .icon i {
   color: #41cf2e;
 }
 
-.initiatives .icon-box-green:hover {
+.community .icon-box-green:hover {
   border-color: #41cf2e;
 }
 
-.initiatives .icon-box-blue .icon i {
+.community .icon-box-blue .icon i {
   color: #2282ff;
 }
 
-.initiatives .icon-box-blue:hover {
+.community .icon-box-blue:hover {
   border-color: #2282ff;
 }
 
